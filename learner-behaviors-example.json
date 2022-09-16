@@ -1,6 +1,7 @@
 {
   "data": [
     [
+      "",
       "1.01",
       "<a href='http://example.com/' target='_blank'>Elopement</a>",
       "Frequency",
@@ -9,6 +10,7 @@
       "03/14/2022"
     ],
     [
+      "",
       "1.02",
       "<a href='http://example.com/' target='_blank'>Tantrum</a>",
       "Frequency, Duration",
@@ -17,6 +19,7 @@
       "01/05/2022"
     ],
     [
+      "",
       "1.03",
       "<a href='http://example.com/' target='_blank'>Stereotypy</a>",
       "Partial Interval",
@@ -25,6 +28,7 @@
       "06/15/2022"
     ],
     [
+      "",
       "2.01",
       "<a href='http://example.com/' target='_blank'>Greetings with Peers and Adults</a>",
       "Opportunity",
@@ -33,6 +37,7 @@
       "12/30/2021"
     ],
     [
+      "",
       "2.02",
       "<a href='http://example.com/' target='_blank'>Sleep</a>",
       "Latency",
