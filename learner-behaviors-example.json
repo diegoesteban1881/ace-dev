@@ -7,7 +7,10 @@
       "Frequency",
       "Real-Time",
       "1",
-      "03/14/2022"
+      "03/14/2022",
+      "None",
+      "Sleep-Related Problems",
+      "Other"
     ],
     [
       "",
@@ -16,7 +19,10 @@
       "Frequency, Duration",
       "Real-Time",
       "2",
-      "01/05/2022"
+      "01/05/2022",
+      "None",
+      "Sleep-Related Problems",
+      "Other"
     ],
     [
       "",
@@ -25,7 +31,10 @@
       "Partial Interval",
       "Real-Time",
       "3",
-      "06/15/2022"
+      "06/15/2022",
+      "None",
+      "Sleep-Related Problems",
+      "Other"
     ],
     [
       "",
@@ -34,7 +43,10 @@
       "Opportunity",
       "Summary",
       "4",
-      "12/30/2021"
+      "12/30/2021",
+      "None",
+      "Sleep-Related Problems",
+      "Other"
     ],
     [
       "",
@@ -43,7 +55,10 @@
       "Latency",
       "Summary",
       "5",
-      "02/12/2022"
+      "02/12/2022",
+      "None",
+      "Sleep-Related Problems",
+      "Other"
     ]
   ]
 }
