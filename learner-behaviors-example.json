@@ -10,7 +10,7 @@
       "03/14/2022",
       "None",
       "Sleep-Related Problems",
-      "Other",,
+      "Other",
       "Pending"
     ],
     [
@@ -23,8 +23,8 @@
       "01/05/2022",
       "None",
       "Sleep-Related Problems",
-      "Other"
-      "Active",
+      "Other",
+      "Active"
     ],
     [
       "",
@@ -50,7 +50,7 @@
       "None",
       "Sleep-Related Problems",
       "Other",
-      "Active",
+      "Active"
     ],
     [
       "",
@@ -62,8 +62,8 @@
       "02/12/2022",
       "None",
       "Sleep-Related Problems",
-      "Other"
-      "Active",
+      "Other",
+      "Active"
     ]
   ]
 }
