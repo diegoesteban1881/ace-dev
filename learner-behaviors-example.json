@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      "",
+      "Pending",
       "1.01",
       "<a href='http://example.com/' target='_blank'>Elopement</a>",
       "Frequency",
@@ -10,11 +10,10 @@
       "03/14/2022",
       "None",
       "Sleep-Related Problems",
-      "Other",
-      "Pending"
+      "Other"
     ],
     [
-      "",
+      "Active",
       "1.02",
       "<a href='http://example.com/' target='_blank'>Tantrum</a>",
       "Frequency, Duration",
@@ -23,8 +22,7 @@
       "01/05/2022",
       "None",
       "Sleep-Related Problems",
-      "Other",
-      "Active"
+      "Other"
     ],
     [
       "",
