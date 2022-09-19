@@ -1,69 +1,69 @@
 {
   "data": [
-    [
-      "",
-      "Pending",
-      "1.01",
-      "<a href='http://example.com/' target='_blank'>Elopement</a>",
-      "Frequency",
-      "Real-Time",
-      "1",
-      "03/14/2022",
-      "None",
-      "Sleep-Related Problems",
-      "Other"
-    ],
-    [
-      "",
-      "Active",
-      "1.02",
-      "<a href='http://example.com/' target='_blank'>Tantrum</a>",
-      "Frequency, Duration",
-      "Real-Time",
-      "2",
-      "01/05/2022",
-      "None",
-      "Sleep-Related Problems",
-      "Other"
-    ],
-    [
-      "",
-      "Archived",
-      "1.03",
-      "<a href='http://example.com/' target='_blank'>Stereotypy</a>",
-      "Partial Interval",
-      "Real-Time",
-      "3",
-      "06/15/2022",
-      "None",
-      "Sleep-Related Problems",
-      "Other"
-    ],
-    [
-      "",
-      "Active",
-      "2.01",
-      "<a href='http://example.com/' target='_blank'>Greetings with Peers and Adults</a>",
-      "Opportunity",
-      "Summary",
-      "4",
-      "12/30/2021",
-      "None",
-      "Sleep-Related Problems",
-      "Other"
-    ],
-    [
-      "",
-      "Active",
-      "2.02",
-      "<a href='http://example.com/' target='_blank'>Sleep</a>",
-      "Latency",
-      "Summary",
-      "5",
-      "02/12/2022",
-      "None",
-      "Sleep-Related Problems",
-      "Other"
-    ]
+    {
+      "child_rows": "",
+      "status": "Pending",
+      "objective": "1.01",
+      "name": "<a href='http://example.com/' target='_blank'>Elopement</a>",
+      "measures": "Frequency",
+      "entry_type": "Real-Time",
+      "order": "1",
+      "start_date": "03/14/2022",
+      "end-date:": "None",
+      "category": "Sleep-Related Problems",
+      "subcategory": "Other"
+    },
+    {
+      "child_rows": "",
+      "status": "Active",
+      "objective": "1.02",
+      "name": "<a href='http://example.com/' target='_blank'>Tantrum</a>",
+      "measures": "Frequency, Duration",
+      "entry_type": "Real-Time",
+      "order": "2",
+      "start_date": "01/05/2022",
+      "end-date:": "None",
+      "category": "Sleep-Related Problems",
+      "subcategory": "Other"
+    },
+    {
+      "child_rows": "",
+      "status": "Archived",
+      "objective": "1.03",
+      "name": "<a href='http://example.com/' target='_blank'>Stereotypy</a>",
+      "measures": "Partial Interval",
+      "entry_type": "Real-Time",
+      "order": "3",
+      "start_date": "06/15/2022",
+      "end-date": "None",
+      "category": "Sleep-Related Problems",
+      "subcategory": "Other"
+    },
+    {
+      "child_rows": "",
+      "status": "Active",
+      "objective": "2.01",
+      "name": "<a href='http://example.com/' target='_blank'>Greetings with Peers and Adults</a>",
+      "measures": "Opportunity",
+      "entry_type": "Summary",
+      "order": "4",
+      "start_date": "12/30/2021",
+      "end-date": "None",
+      "category": "Sleep-Related Problems",
+      "subcategory": "Other"
+    },
+    {
+      "child_rows": "",
+      "status": "Active",
+      "objective": "2.02",
+      "name": "<a href='http://example.com/' target='_blank'>Sleep</a>",
+      "measures": "Latency",
+      "entry_type": "Summary",
+      "order": "5",
+      "start_date": "02/12/2022",
+      "end-date": "None",
+      "category": "Sleep-Related Problems",
+      "subcategory": "Other"
+    }
   ]
 }
