@@ -1,0 +1,52 @@
+{
+  "data": [
+    [
+      "Circle Time",
+      "1",
+      "Active",
+      ""
+    ],
+    [
+      "Gym Class",
+      "2",
+      "Active",
+      ""
+    ],
+    [
+      "Lunch",
+      "3",
+      "Active",
+      ""
+    ],
+    [
+      "Math Class",
+      "4",
+      "Active",
+      ""
+    ],
+    [
+      "Reading",
+      "5",
+      "Active",
+      ""
+    ],
+    [
+      "Recess",
+      "6",
+      "Active",
+      ""
+    ],
+    [
+      "Social Studies",
+      "7",
+      "Active",
+      ""
+    ],
+    [
+      "Writing",
+      "8",
+      "Archived",
+      ""
+    ]
+  ]
+}
