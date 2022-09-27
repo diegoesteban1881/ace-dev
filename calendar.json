@@ -9,7 +9,7 @@
 	},
 	{
 		"date": "2022-09-09",
-		"badge": false,
+		"badge": true,
 		"title": "Tonight",
 		"body": "<p class=\"lead\">Party</p><p>Like it's 1999.</p>",
 		"footer": "At Paisley Park",
