@@ -1,7 +1,7 @@
 [
 	{
 		"date": "2022-09-02",
-		"badge": true,
+		"badge": false,
 		"title": "Tonight",
 		"body": "<p class=\"lead\">Party</p><p>Like it's 1999.</p>",
 		"footer": "At Paisley Park",
@@ -9,7 +9,7 @@
 	},
 	{
 		"date": "2022-09-09",
-		"badge": true,
+		"badge": false,
 		"title": "Tonight",
 		"body": "<p class=\"lead\">Party</p><p>Like it's 1999.</p>",
 		"footer": "At Paisley Park",
@@ -17,7 +17,7 @@
 	},
 	{
 		"date": "2022-09-15",
-		"badge": true,
+		"badge": false,
 		"title": "Tonight",
 		"body": "<p class=\"lead\">Party</p><p>Like it's 1999.</p>",
 		"footer": "At Paisley Park",
@@ -25,7 +25,7 @@
 	},
 	{
 		"date": "2022-09-20",
-		"badge": true,
+		"badge": false,
 		"title": "Tonight",
 		"body": "<p class=\"lead\">Party</p><p>Like it's 1999.</p>",
 		"footer": "At Paisley Park",
@@ -33,7 +33,7 @@
 	},
 	{
 		"date": "2022-09-17",
-		"badge": true,
+		"badge": false,
 		"title": "Tonight",
 		"body": "<p class=\"lead\">Party</p><p>Like it's 1999.</p>",
 		"footer": "At Paisley Park",
