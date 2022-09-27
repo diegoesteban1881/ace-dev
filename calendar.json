@@ -21,7 +21,7 @@
 		"title": "Tonight",
 		"body": "<p class=\"lead\">Party</p><p>Like it's 1999.</p>",
 		"footer": "At Paisley Park",
-		"classname": "good-event"
+		"classname": "grade-2"
 	},
 	{
 		"date": "2022-09-20",
@@ -37,6 +37,6 @@
 		"title": "Tonight",
 		"body": "<p class=\"lead\">Party</p><p>Like it's 1999.</p>",
 		"footer": "At Paisley Park",
-		"classname": "grade-5"
+		"classname": "grade-4"
 	}
 ]
