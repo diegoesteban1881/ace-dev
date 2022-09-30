@@ -2,41 +2,41 @@
 	{
 		"date": "2022-09-02",
 		"badge": false,
-		"title": "Tonight",
-		"body": "<p class=\"lead\">Party</p><p>Like it's 1999.</p>",
-		"footer": "At Paisley Park",
-		"classname": "purple"
+		"classname": "grade-1"
 	},
 	{
 		"date": "2022-09-09",
 		"badge": false,
-		"title": "Tonight",
-		"body": "<p class=\"lead\">Party</p><p>Like it's 1999.</p>",
-		"footer": "At Paisley Park",
-		"classname": "grade-3"
+		"classname": "grade-2"
 	},
 	{
 		"date": "2022-09-15",
 		"badge": false,
-		"title": "Tonight",
-		"body": "<p class=\"lead\">Party</p><p>Like it's 1999.</p>",
-		"footer": "At Paisley Park",
 		"classname": "grade-2"
 	},
 	{
 		"date": "2022-09-20",
 		"badge": false,
-		"title": "Tonight",
-		"body": "<p class=\"lead\">Party</p><p>Like it's 1999.</p>",
-		"footer": "At Paisley Park",
+		"classname": "grade-2"
+	},
+	{
+		"date": "2022-10-14",
+		"badge": false,
 		"classname": "grade-1"
 	},
 	{
 		"date": "2022-09-17",
 		"badge": false,
-		"title": "Tonight",
-		"body": "<p class=\"lead\">Party</p><p>Like it's 1999.</p>",
-		"footer": "At Paisley Park",
-		"classname": "grade-4"
+		"classname": "grade-2"
+	},
+	{
+		"date": "2022-09-18",
+		"badge": false,
+		"classname": "grade-1"
+	},
+	{
+		"date": "2022-09-25",
+		"badge": false,
+		"classname": "grade-1"
 	}
 ]
