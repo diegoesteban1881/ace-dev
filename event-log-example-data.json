@@ -7,11 +7,7 @@
       "<a href='http://example.com/' target='_blank'>Elopement</a>",
       "Frequency",
       "Real-Time",
-      "1",
-      "03/14/2022",
-      "None",
-      "Sleep-Related Problems",
-      "Other"
+      "1"
     ],
     [
       "",
@@ -20,11 +16,7 @@
       "<a href='http://example.com/' target='_blank'>Tantrum</a>",
       "Frequency, Duration",
       "Real-Time",
-      "2",
-      "01/05/2022",
-      "None",
-      "Sleep-Related Problems",
-      "Other"
+      "2"
     ],
     [
       "",
@@ -33,11 +25,7 @@
       "<a href='http://example.com/' target='_blank'>Stereotypy</a>",
       "Partial Interval",
       "Real-Time",
-      "3",
-      "06/15/2022",
-      "None",
-      "Sleep-Related Problems",
-      "Other"
+      "3"
     ],
     [
       "",
@@ -46,11 +34,7 @@
       "<a href='http://example.com/' target='_blank'>Greetings with Peers and Adults</a>",
       "Opportunity",
       "Summary",
-      "4",
-      "12/30/2021",
-      "None",
-      "Sleep-Related Problems",
-      "Other"
+      "4"
     ],
     [
       "",
@@ -59,11 +43,7 @@
       "<a href='http://example.com/' target='_blank'>Sleep</a>",
       "Latency",
       "Summary",
-      "5",
-      "02/12/2022",
-      "None",
-      "Sleep-Related Problems",
-      "Other"
+      "5"
     ]
   ]
 }
