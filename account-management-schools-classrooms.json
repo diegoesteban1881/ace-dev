@@ -1,99 +1,48 @@
 {
-	"data": [
-		["Abu Dhabi High School", "<span class='badge bg-success'>Active</span>"],
-		["Barcelona Middle School", "<span class='badge bg-success'>Active</span>"],
-		[
-			"Cologne Elementary School",
-			"<span class='badge bg-warning'>On-hold</span>"
-		],
-		["Dhaka Middle School", "<span class='badge bg-warning'>On-hold</span>"],
-		["Glasgow Middle School", "<span class='badge bg-success'>Active</span>"],
-		[
-			"Manchester Heights Elementary School",
-			"<span class='badge bg-success'>Active</span>"
-		],
-		[
-			"Memphis Valley Finishing School",
-			"<span class='badge bg-success'>Active</span>"
-		],
-		["Pretoria Hgh School", "<span class='badge bg-success'>Active</span>"],
-		["Rome County Day School", "<span class='badge bg-success'>Active</span>"],
-		[
-			"Winnipeg Boarding School",
-			"<span class='badge bg-success'>Active</span>"
-		],
-		["Abu Dhabi High School", "<span class='badge bg-success'>Active</span>"],
-		["Barcelona Middle School", "<span class='badge bg-success'>Active</span>"],
-		[
-			"Cologne Elementary School",
-			"<span class='badge bg-success'>Active</span>"
-		],
-		["Dhaka Middle School", "<span class='badge bg-success'>Active</span>"],
-		["Glasgow Middle School", "<span class='badge bg-success'>Active</span>"],
-		[
-			"Manchester Heights Elementary School",
-			"<span class='badge bg-success'>Active</span>"
-		],
-		[
-			"Memphis Valley Finishing School",
-			"<span class='badge bg-danger'>Archived</span>"
-		],
-		["Pretoria Hgh School", "<span class='badge bg-success'>Active</span>"],
-		["Rome County Day School", "<span class='badge bg-success'>Active</span>"],
-		[
-			"Winnipeg Boarding School",
-			"<span class='badge bg-success'>Active</span>"
-		],
-		["Abu Dhabi High School", "<span class='badge bg-success'>Active</span>"],
-		["Barcelona Middle School", "<span class='badge bg-success'>Active</span>"],
-		[
-			"Cologne Elementary School",
-			"<span class='badge bg-warning'>On-hold</span>"
-		],
-		["Dhaka Middle School", "<span class='badge bg-success'>Active</span>"],
-		["Glasgow Middle School", "<span class='badge bg-warning'>On-hold</span>"],
-		[
-			"Manchester Heights Elementary School",
-			"<span class='badge bg-success'>Active</span>"
-		],
-		[
-			"Memphis Valley Finishing School",
-			"<span class='badge bg-danger'>Archived</span>"
-		],
-		["Pretoria Hgh School", "<span class='badge bg-success'>Active</span>"],
-		["Rome County Day School", "<span class='badge bg-success'>Active</span>"],
-		[
-			"Winnipeg Boarding School",
-			"<span class='badge bg-success'>Active</span>"
-		],
-		[
-			"Memphis Valley Finishing School",
-			"<span class='badge bg-success'>Active</span>"
-		],
-		["Pretoria Hgh School", "<span class='badge bg-success'>Active</span>"],
-		["Rome County Day School", "<span class='badge bg-success'>Active</span>"],
-		[
-			"Winnipeg Boarding School",
-			"<span class='badge bg-danger'>Archived</span>"
-		],
-		["Abu Dhabi High School", "<span class='badge bg-success'>Active</span>"],
-		["Barcelona Middle School", "<span class='badge bg-success'>Active</span>"],
-		[
-			"Cologne Elementary School",
-			"<span class='badge bg-success'>Active</span>"
-		],
-		["Dhaka Middle School", "<span class='badge bg-success'>Active</span>"],
-		["Glasgow Middle School", "<span class='badge bg-success'>Active</span>"],
-		[
-			"Manchester Heights Elementary School",
-			"<span class='badge bg-success'>Active</span>"
-		],
-		[
-			"Memphis Valley Finishing School",
-			"<span class='badge bg-success'>Active</span>"
-		],
-		["Pretoria Hgh School", "<span class='badge bg-success'>Active</span>"],
-		["Rome County Day School", "<span class='badge bg-success'>Active</span>"],
-		["Winnipeg Boarding School", "<span class='badge bg-success'>Active</span>"]
-	]
+  "data": [
+    ["1", "Abu Dhabi High School", "Active"],
+    ["2", "Barcelona Middle School", "Active"],
+    ["3", "Cologne Elementary School", "On-hold"],
+    ["4", "Dhaka Middle School", "On-hold"],
+    ["5", "Glasgow Middle School", "Active"],
+    ["6", "Manchester Heights Elementary School", "Active"],
+    ["7", "Memphis Valley Finishing School", "Active"],
+    ["8", "Pretoria Hgh School", "Active"],
+    ["9", "Rome County Day School", "Active"],
+    ["10", "Winnipeg Boarding School", "Active"],
+    ["11", "Abu Dhabi High School", "Active"],
+    ["12", "Barcelona Middle School", "Active"],
+    ["13", "Cologne Elementary School", "Active"],
+    ["14", "Dhaka Middle School", "Active"],
+    ["15", "Glasgow Middle School", "Active"],
+    ["16", "Manchester Heights Elementary School", "Active"],
+    ["17", "Memphis Valley Finishing School", "Archived"],
+    ["18", "Pretoria Hgh School", "Active"],
+    ["19", "Rome County Day School", "Active"],
+    ["20", "Winnipeg Boarding School", "Active"],
+    ["21", "Abu Dhabi High School", "Active"],
+    ["22", "Barcelona Middle School", "Active"],
+    ["23", "Cologne Elementary School", "On-hold"],
+    ["24", "Dhaka Middle School", "Active"],
+    ["25", "Glasgow Middle School", "On-hold"],
+    ["26", "Manchester Heights Elementary School", "Active"],
+    ["27", "Memphis Valley Finishing School", "Archived"],
+    ["28", "Pretoria Hgh School", "Active"],
+    ["29", "Rome County Day School", "Active"],
+    ["30", "Winnipeg Boarding School", "Active"],
+    ["31", "Memphis Valley Finishing School", "Active"],
+    ["32", "Pretoria Hgh School", "Active"],
+    ["33", "Rome County Day School", "Active"],
+    ["34", "Winnipeg Boarding School", "Archived"],
+    ["35", "Abu Dhabi High School", "Active"],
+    ["36", "Barcelona Middle School", "Active"],
+    ["37", "Cologne Elementary School", "Active"],
+    ["38", "Dhaka Middle School", "Active"],
+    ["39", "Glasgow Middle School", "Active"],
+    ["40", "Manchester Heights Elementary School", "Active"],
+    ["41", "Memphis Valley Finishing School", "Active"],
+    ["42", "Pretoria Hgh School", "Active"],
+    ["43", "Rome County Day School", "Active"],
+    ["44", "Winnipeg Boarding School", "Active"]
+  ]
 }
