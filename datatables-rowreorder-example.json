@@ -1,6 +1,7 @@
 {
 	"data": [
 		[
+			"Responsive Button",
 			"1",
 			"<a href='http://example.com/' target='_blank'>Tiger Nixon</a>",
 			"System Architect",
@@ -11,6 +12,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"2",
 			"<a href='http://example.com/' target='_blank'>Garrett Winters</a>",
 			"Accountant",
@@ -21,6 +23,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"3",
 			"<a href='http://example.com/' target='_blank'>Ashton Cox</a>",
 			"Junior Technical Author",
@@ -31,6 +34,7 @@
 			"<span class='badge bg-warning'>On-hold</span>"
 		],
 		[
+			"Responsive Button",
 			"4",
 			"<a href='http://example.com/' target='_blank'>Cedric Kelly</a>",
 			"Senior Javascript Developer",
@@ -41,6 +45,7 @@
 			"<span class='badge bg-warning'>On-hold</span>"
 		],
 		[
+			"Responsive Button",
 			"5",
 			"<a href='http://example.com/' target='_blank'>Airi Satou</a>",
 			"Accountant",
@@ -51,6 +56,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"6",
 			"<a href='http://example.com/' target='_blank'>Brielle Williamson</a>",
 			"Integration Specialist",
@@ -61,6 +67,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"7",
 			"<a href='http://example.com/' target='_blank'>Herrod Chandler</a>",
 			"Sales Assistant",
@@ -71,6 +78,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"8",
 			"<a href='http://example.com/' target='_blank'>Rhona Davidson</a>",
 			"Integration Specialist",
@@ -81,6 +89,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"9",
 			"<a href='http://example.com/' target='_blank'>Colleen Hurst</a>",
 			"Javascript Developer",
@@ -91,6 +100,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"10",
 			"<a href='http://example.com/' target='_blank'>Sonya Frost",
 			"Software Engineer",
@@ -101,6 +111,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"11",
 			"<a href='http://example.com/' target='_blank'>Jena Gaines</a>",
 			"Office Manager",
@@ -111,6 +122,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"12",
 			"<a href='http://example.com/' target='_blank'>Quinn Flynn</a>",
 			"Support Lead",
@@ -121,6 +133,7 @@
 			"<span class='badge bg-primary'>View only</span>"
 		],
 		[
+			"Responsive Button",
 			"13",
 			"<a href='http://example.com/' target='_blank'>Charde Marshall</a>",
 			"Regional Director",
@@ -131,6 +144,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"14",
 			"<a href='http://example.com/' target='_blank'>Haley Kennedy</a>",
 			"Senior Marketing Designer",
@@ -141,6 +155,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"15",
 			"<a href='http://example.com/' target='_blank'>Tatyana Fitzpatrick</a>",
 			"Regional Director",
@@ -151,6 +166,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"16",
 			"<a href='http://example.com/' target='_blank'>Michael Silva</a>",
 			"Marketing Designer",
@@ -161,6 +177,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"17",
 			"<a href='http://example.com/' target='_blank'>Paul Byrd</a>",
 			"Chief Financial Officer (CFO)",
@@ -171,6 +188,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"18",
 			"<a href='http://example.com/' target='_blank'>Gloria Little</a>",
 			"Systems Administrator",
@@ -181,6 +199,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"19",
 			"<a href='http://example.com/' target='_blank'>Bradley Greer</a>",
 			"Software Engineer",
@@ -191,6 +210,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"20",
 			"<a href='http://example.com/' target='_blank'>Dai Rios</a>",
 			"Personnel Lead",
@@ -201,6 +221,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"21",
 			"<a href='http://example.com/' target='_blank'>Jenette Caldwell</a>",
 			"Development Lead",
@@ -211,6 +232,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"22",
 			"<a href='http://example.com/' target='_blank'>Yuri Berry</a>",
 			"Chief Marketing Officer (CMO)",
@@ -221,6 +243,7 @@
 			"<span class='badge bg-success'>Active</span>"
 		],
 		[
+			"Responsive Button",
 			"23",
 			"<a href='http://example.com/' target='_blank'>Caesar Vance</a>",
 			"Pre-Sales Support",
@@ -231,6 +254,7 @@
 			"<span class='badge bg-warning'>On-hold</span>"
 		],
 		[
+			"Responsive Button",
 			"24",
 			"<a href='http://example.com/' target='_blank'>Doris Wilder</a>",
 			"Sales Assistant",
