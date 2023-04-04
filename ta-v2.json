@@ -1,0 +1,13 @@
+{
+  "data": [
+    ["1. Turn on the water", "checked", "", "", "", ""],
+    ["2. Wet the face cloth", "checked", "", "", "", ""],
+    ["3. Put soap on the face cloth", "checked", "", "", "", ""],
+    ["4. Lather the soap in the face cloth", "checked", "", "", "", ""],
+    ["5. Raise cloth to face", "", "", "checked", "", ""],
+    ["6. Rub cloth on face in a circular motion two times", "", "", "", "", ""],
+    ["7. Put the face cloth down on the sink", "", "", "", "", ""],
+    ["8. Pick up the towel", "", "", "", "", ""],
+    ["9. Dry face with the towel", "", "", "", "", ""]
+  ]
+}
