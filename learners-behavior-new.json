@@ -1,0 +1,147 @@
+{
+	"data": [{
+			"id": "1",
+			"hour": "<a href='http://example.com/' target='_blank'>8-9 AM</a>",
+			"teacher": "TMC",
+			"aggresion_frequency": "0",
+			"tantrum_frequency": "1",
+			"tantrum_duration": "1 min",
+			"motor_stereotypy": "3/4",
+			"request_termination": "2/10",
+			"greetings": "1/2",
+			"flopping_frequency": "1"
+		},
+		{
+			"id": "2",
+			"hour": "<a href='http://example.com/' target='_blank'>9-10 AM</a>",
+			"teacher": "NGC",
+			"aggresion": "2",
+			"tantrum_frequency": "0",
+			"tantrum_duration": "0",
+			"motor_stereotypy": "2/4",
+			"request_termination": "1/10",
+			"greetings": "4/5",
+			"flopping_frequency": "2"
+		},
+		{
+			"id": "3",
+			"hour": "<a href='http://example.com/' target='_blank'>10-11 AM</a>",
+			"teacher": "-",
+			"aggresion": "-",
+			"tantrum_frequency": "-",
+			"tantrum_duration": "-",
+			"motor_stereotypy": "-",
+			"request_termination": "-",
+			"greetings": "-",
+			"flopping_frequency": "-"
+		},
+		{
+			"id": "4",
+			"name": "<a href='http://example.com/' target='_blank'>11-12 AM</a>",
+			"teacher": "TMP",
+			"aggresion": "1",
+			"tantrum_frequency": "2",
+			"tantrum_duration": "20 min",
+			"motor_stereotypy": "4/4",
+			"request_termination": "3/4",
+			"greetings": "2/3",
+			"flopping_frequency": "0"
+		},
+		{
+			"id": "5",
+			"name": "<a href='http://example.com/' target='_blank'>12-1 PM</a>",
+			"teacher": "KM",
+			"aggresion": "5",
+			"tantrum_frequency": "0",
+			"tantrum_duration": "0",
+			"motor_stereotypy": "",
+			"request_termination": "2/5",
+			"greetings": "2/3",
+			"subcategory": "0"
+		},
+		{
+			"id": "6",
+			"name": "<a href='http://example.com/' target='_blank'>1-2 PM</a>",
+			"teacher": "GM",
+			"aggresion": "0",
+			"tantrum_frequency": "3",
+			"tantrum_duration": "63 min",
+			"motor_stereotypy": "4/4 ",
+			"request_termination": "1/10",
+			"greetings": "2/4",
+			"subcategory": "5"
+		},
+		{
+			"id": "7",
+			"hour": "<a href='http://example.com/' target='_blank'>2-3 PM</a>",
+			"teacher": "-",
+			"aggresion": "-",
+			"tantrum_frequency": "-",
+			"tantrum_duration": "-",
+			"motor_stereotypy": "-",
+			"request_termination": "-",
+			"greetings": "-",
+			"flopping_frequency": "-"
+		},
+		{
+			"id": "8",
+			"hour": "<a href='http://example.com/' target='_blank'>3-4 PM</a>",
+			"teacher": "-",
+			"aggresion": "-",
+			"tantrum_frequency": "-",
+			"tantrum_duration": "-",
+			"motor_stereotypy": "-",
+			"request_termination": "-",
+			"greetings": "-",
+			"flopping_frequency": "-"
+		},
+		{
+			"id": "9",
+			"hour": "<a href='http://example.com/' target='_blank'>4-5 PM</a>",
+			"teacher": "-",
+			"aggresion": "-",
+			"tantrum_frequency": "-",
+			"tantrum_duration": "-",
+			"motor_stereotypy": "-",
+			"request_termination": "-",
+			"greetings": "-",
+			"flopping_frequency": "-"
+		},
+		{
+			"id": "10",
+			"hour": "<a href='http://example.com/' target='_blank'>5-6 PM</a>",
+			"teacher": "-",
+			"aggresion": "-",
+			"tantrum_frequency": "-",
+			"tantrum_duration": "-",
+			"motor_stereotypy": "-",
+			"request_termination": "-",
+			"greetings": "-",
+			"flopping_frequency": "-"
+		},
+		{
+			"id": "11",
+			"hour": "<a href='http://example.com/' target='_blank'>6-7 PM</a>",
+			"teacher": "-",
+			"aggresion": "-",
+			"tantrum_frequency": "-",
+			"tantrum_duration": "-",
+			"motor_stereotypy": "-",
+			"request_termination": "-",
+			"greetings": "-",
+			"flopping_frequency": "-"
+		},
+		{
+			"id": "12",
+			"hour": "<a href='http://example.com/' target='_blank'>7-8 PM</a>",
+			"teacher": "-",
+			"aggresion": "-",
+			"tantrum_frequency": "-",
+			"tantrum_duration": "-",
+			"motor_stereotypy": "-",
+			"request_termination": "-",
+			"greetings": "-",
+			"flopping_frequency": "-"
+		}
+	]
+}
