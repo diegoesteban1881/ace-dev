@@ -2,7 +2,7 @@
 	"data": [
 		[
 			"1",
-			"<a href='http://example.com/' target='_blank' class='time-block-hour'>8-9 AM</a>",
+			"8-9 AM",
 			"TMC",
 			"0",
 			"1",
@@ -15,7 +15,7 @@
 		],
 		[
 			"2",
-			"<a href='http://example.com/' target='_blank' class='time-block-hour'>9-10 AM</a>",
+			"9-10 AM",
 			"NGC",
 			"2",
 			"0",
@@ -28,7 +28,7 @@
 		],
 		[
 			"3",
-			"<a href='http://example.com/' target='_blank' class='time-block-hour'>10-11 AM</a>",
+			"10-11 AM",
 			"-",
 			"-",
 			"-",
@@ -41,7 +41,7 @@
 		],
 		[
 			"4",
-			"<a href='http://example.com/' target='_blank' class='time-block-hour'>11-12 AM</a>",
+			"11-12 AM",
 			"TMP",
 			"1",
 			"2",
@@ -54,7 +54,7 @@
 		],
 		[
 			"5",
-			"<a href='http://example.com/' target='_blank' class='time-block-hour'>12-1 PM</a>",
+			"12-1 PM",
 			"KM",
 			"5",
 			"0",
@@ -67,7 +67,7 @@
 		],
 		[
 			"6",
-			"<a href='http://example.com/' target='_blank' class='time-block-hour'>1-2 PM</a>",
+			"1-2 PM",
 			"GM",
 			"0",
 			"3",
@@ -80,7 +80,7 @@
 		],
 		[
 			"7",
-			"<a href='http://example.com/' target='_blank' class='time-block-hour'>2-3 PM</a>",
+			"2-3 PM",
 			"-",
 			"-",
 			"-",
@@ -93,7 +93,7 @@
 		],
 		[
 			"8",
-			"<a href='http://example.com/' target='_blank' class='time-block-hour'>3-4 PM</a>",
+			"3-4 PM",
 			"-",
 			"-",
 			"-",
@@ -106,7 +106,7 @@
 		],
 		[
 			"9",
-			"<a href='http://example.com/' target='_blank' class='time-block-hour'>4-5 PM</a>",
+			"4-5 PM",
 			"-",
 			"-",
 			"-",
@@ -119,7 +119,7 @@
 		],
 		[
 			"10",
-			"<a href='http://example.com/' target='_blank' class='time-block-hour'>5-6 PM</a>",
+			"5-6 PM",
 			"-",
 			"-",
 			"-",
@@ -132,7 +132,7 @@
 		],
 		[
 			"11",
-			"<a href='http://example.com/' target='_blank' class='time-block-hour'>6-7 PM</a>",
+			"6-7 PM",
 			"-",
 			"-",
 			"-",
@@ -145,7 +145,7 @@
 		],
 		[
 			"12",
-			"<a href='http://example.com/' target='_blank' class='time-block-hour'>7-8 PM</a>",
+			"7-8 PM",
 			"-",
 			"-",
 			"-",
