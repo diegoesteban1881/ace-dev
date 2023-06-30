@@ -1,0 +1,38 @@
+[
+	{
+		"behavior_name": "Aggression",
+		"measure": "Frequency",
+		"moving_average_previous": "8.52",
+		"moving_average_current": "5.98"
+	},
+	{
+		"behavior_name": "Tantrum",
+		"measure": "Frequency",
+		"moving_average_previous": "4.86",
+		"moving_average_current":  "3.02"
+	},
+	{
+		"behavior_name": "",
+		"measure": "Duration",
+		"moving_average_previous": "",
+		"moving_average_current":  ""
+	},
+	{
+		"behavior_name": "Stereotypy",
+		"measure": "Partial Interval",
+		"moving_average_previous": "74%",
+		"moving_average_current": "40%"
+	},
+	{
+		"behavior_name": "Greetings with Peers and Adults",
+		"measure": "Opportunity",
+		"moving_average_previous": "68%",
+		"moving_average_current": "78%"
+	},
+	{
+		"behavior_name": "Sleep",
+		"measure": "Latency (min)",
+		"moving_average_previous": "78%",
+		"moving_average_current": "180"
+	}
+]
