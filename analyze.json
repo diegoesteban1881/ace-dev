@@ -1,50 +1,50 @@
 [
-	{
-		"behavior_name": "Aggression",
-		"url": "https://example.com/",
-		"measure": "Frequency",
-		"moving_average_previous": "8.52",
-		"moving_average_current": "5.98",
-		"daily_total": "10"
-	},
-	{
-		"behavior_name": "Tantrum",
-		"url": "https://example.com/",
-		"measure": "Frequency",
-		"moving_average_previous": "4.86",
-		"moving_average_current":  "3.02",
-		"daily_total": "7"
-	},
-	{
-		"behavior_name": "",
-		"url": "https://example.com/",
-		"measure": "Duration",
-		"moving_average_previous": "",
-		"moving_average_current":  "",
-		"daily_total": ""
-	},
-	{
-		"behavior_name": "Stereotypy",
-		"url": "https://example.com/",
-		"measure": "Partial Interval",
-		"moving_average_previous": "74%",
-		"moving_average_current": "40%",
-		"daily_total": "5"
-	},
-	{
-		"behavior_name": "Greetings with Peers and Adults",
-		"url": "https://example.com/",
-		"measure": "Opportunity",
-		"moving_average_previous": "68%",
-		"moving_average_current": "78%",
-		"daily_total": "12"
-	},
-	{
-		"behavior_name": "Sleep",
-		"url": "https://example.com/",
-		"measure": "Latency (min)",
-		"moving_average_previous": "82",
-		"moving_average_current": "180",
-		"daily_total": "3"
-	}
+  {
+    "behavior_name": "Aggression",
+    "url": "./analyze-per-measure.html",
+    "measure": "Frequency",
+    "moving_average_previous": "8.52",
+    "moving_average_current": "5.98",
+    "today": "4"
+  },
+  {
+    "behavior_name": "Tantrum",
+    "url": "./analyze-per-measure.html",
+    "measure": "Frequency",
+    "moving_average_previous": "4.86",
+    "moving_average_current": "3.02",
+    "today": "3"
+  },
+  {
+    "behavior_name": "Tantrum",
+    "url": "./analyze-per-measure.html",
+    "measure": "Duration (min)",
+    "moving_average_previous": "10",
+    "moving_average_current": "8",
+    "today": "10"
+  },
+  {
+    "behavior_name": "Stereotypy",
+    "url": "./analyze-per-measure.html",
+    "measure": "Partial Interval",
+    "moving_average_previous": "78%",
+    "moving_average_current": "78%",
+    "today": "50%"
+  },
+  {
+    "behavior_name": "Greetings with Peers and Adults",
+    "url": "./analyze-per-measure.html",
+    "measure": "Opportunity",
+    "moving_average_previous": "82%",
+    "moving_average_current": "90%",
+    "today": "40%"
+  },
+  {
+    "behavior_name": "Sleep",
+    "url": "./analyze-per-measure.html",
+    "measure": "Latency (min)",
+    "moving_average_previous": "25",
+    "moving_average_current": "25",
+    "today": "No Data"
+  }
 ]
