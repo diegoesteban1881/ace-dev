@@ -1,572 +1,234 @@
 [
   {
-    "name": "Tiger Nixon",
-    "position": "System Architect",
+    "date": "2011/04/25",
     "location": "Edinburgh",
     "id": "5421",
-    "date": "2011/04/25",
+    "position": "System Architect",
     "salary": "320,800",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Tiger Nixon"
   },
   {
-    "name": "Garrett Winters",
-    "position": "Accountant",
-    "location": "Tokyo",
-    "id": "8422",
-    "date": "2011/07/25",
-    "salary": "170,750",
-    "icon": "done",
-    "status": "Active"
-  },
-  {
-    "name": "Ashton Cox",
-    "position": "Junior Technical Author",
+    "date": "2009/01/12",
     "location": "San Francisco",
     "id": "1562",
-    "date": "2009/01/12",
+    "position": "Junior Technical Author",
     "salary": "86,000",
-    "icon": "mastered",
-    "status": "On-hold"
+    "name": "Ashton Cox"
   },
   {
-    "name": "Cedric Kelly",
-    "position": "Senior Javascript Developer",
+    "date": "2012/03/29",
     "location": "Edinburgh",
     "id": "6224",
-    "date": "2012/03/29",
+    "position": "Senior Javascript Developer",
     "salary": "433,060",
-    "icon": "mastered",
-    "status": "On-hold"
+    "name": "Cedric Kelly"
   },
   {
-    "name": "Airi Satou",
-    "position": "Accountant",
-    "location": "Tokyo",
-    "id": "5407",
-    "date": "2008/11/28",
-    "salary": "162,700",
-    "icon": "pdf",
-    "status": "Active"
-  },
-  {
-    "name": "Brielle Williamson",
-    "position": "Integration Specialist",
-    "location": "New York",
-    "id": "4804",
-    "date": "2012/12/02",
-    "salary": "372,000",
-    "icon": "done",
-    "status": "Active"
-  },
-  {
-    "name": "Herrod Chandler",
-    "position": "Sales Assistant",
+    "date": "2012/08/06",
     "location": "San Francisco",
     "id": "9608",
-    "date": "2012/08/06",
+    "position": "Sales Assistant",
     "salary": "137,500",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Herrod Chandler"
   },
   {
-    "name": "Rhona Davidson",
-    "position": "Integration Specialist",
-    "location": "Tokyo",
-    "id": "6200",
-    "date": "2010/10/14",
-    "salary": "327,900",
-    "icon": "excel",
-    "status": "Active"
-  },
-  {
-    "name": "Colleen Hurst",
-    "position": "Javascript Developer",
-    "location": "San Francisco",
-    "id": "2360",
-    "date": "2009/09/15",
-    "salary": "205,500",
-    "icon": "pdf",
-    "status": "Active"
-  },
-  {
-    "name": "Sonya Frost",
-    "position": "Software Engineer",
-    "location": "Edinburgh",
-    "id": "1667",
-    "date": "2008/12/13",
-    "salary": "103,600",
-    "icon": "word",
-    "status": "Active"
-  },
-  {
-    "name": "Jena Gaines",
-    "position": "Office Manager",
-    "location": "London",
-    "id": "3814",
-    "date": "2008/12/19",
-    "salary": "90,560",
-    "icon": "done",
-    "status": "Active"
-  },
-  {
-    "name": "Quinn Flynn",
-    "position": "Support Lead",
+    "date": "2013/03/03",
     "location": "Edinburgh",
     "id": "9497",
-    "date": "2013/03/03",
+    "position": "Support Lead",
     "salary": "342,000",
-    "icon": "mastered",
-    "status": "View only"
+    "name": "Quinn Flynn"
   },
   {
-    "name": "Charde Marshall",
-    "position": "Regional Director",
-    "location": "San Francisco",
-    "id": "6741",
-    "date": "2008/10/16",
-    "salary": "470,600",
-    "icon": "done",
-    "status": "Active"
-  },
-  {
-    "name": "Haley Kennedy",
-    "position": "Senior Marketing Designer",
+    "date": "2012/12/18",
     "location": "London",
     "id": "3597",
-    "date": "2012/12/18",
+    "position": "Senior Marketing Designer",
     "salary": "313,500",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Haley Kennedy"
   },
   {
-    "name": "Tatyana Fitzpatrick",
-    "position": "Regional Director",
+    "date": "2010/03/17",
     "location": "London",
     "id": "1965",
-    "date": "2010/03/17",
+    "position": "Regional Director",
     "salary": "385,750",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Tatyana Fitzpatrick"
   },
   {
-    "name": "Michael Silva",
-    "position": "Marketing Designer",
+    "date": "2012/11/27",
     "location": "London",
     "id": "1581",
-    "date": "2012/11/27",
+    "position": "Marketing Designer",
     "salary": "198,500",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Michael Silva"
   },
   {
-    "name": "Paul Byrd",
-    "position": "Chief Financial Officer (CFO)",
-    "location": "New York",
-    "id": "3059",
-    "date": "2010/06/09",
-    "salary": "725,000",
-    "icon": "excel",
-    "status": "Active"
-  },
-  {
-    "name": "Gloria Little",
-    "position": "Systems Administrator",
-    "location": "New York",
-    "id": "1721",
-    "date": "2009/04/10",
-    "salary": "237,500",
-    "icon": "excel",
-    "status": "Active"
-  },
-  {
-    "name": "Bradley Greer",
-    "position": "Software Engineer",
+    "date": "2012/10/13",
     "location": "London",
     "id": "2558",
-    "date": "2012/10/13",
+    "position": "Software Engineer",
     "salary": "132,000",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Bradley Greer"
   },
   {
-    "name": "Dai Rios",
-    "position": "Personnel Lead",
+    "date": "2012/09/26",
     "location": "Edinburgh",
     "id": "2290",
-    "date": "2012/09/26",
+    "position": "Personnel Lead",
     "salary": "217,500",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Dai Rios"
   },
   {
-    "name": "Jenette Caldwell",
-    "position": "Development Lead",
+    "date": "2011/09/03",
     "location": "New York",
     "id": "1937",
-    "date": "2011/09/03",
+    "position": "Development Lead",
     "salary": "345,000",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Jenette Caldwell"
   },
   {
-    "name": "Yuri Berry",
-    "position": "Chief Marketing Officer (CMO)",
-    "location": "New York",
-    "id": "6154",
-    "date": "2009/06/25",
-    "salary": "675,000",
-    "icon": "excel",
-    "status": "Active"
-  },
-  {
-    "name": "Caesar Vance",
-    "position": "Pre-Sales Support",
+    "date": "2011/12/12",
     "location": "New York",
     "id": "8330",
-    "date": "2011/12/12",
+    "position": "Pre-Sales Support",
     "salary": "106,450",
-    "icon": "mastered",
-    "status": "On-hold"
+    "name": "Caesar Vance"
   },
   {
-    "name": "Doris Wilder",
-    "position": "Sales Assistant",
+    "date": "2010/09/20",
     "location": "Sydney",
     "id": "3023",
-    "date": "2010/09/20",
+    "position": "Sales Assistant",
     "salary": "85,600",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Doris Wilder"
   },
   {
-    "name": "Angelica Ramos",
-    "position": "Chief Executive Officer (CEO)",
+    "date": "2009/10/09",
     "location": "London",
     "id": "5797",
-    "date": "2009/10/09",
+    "position": "Chief Executive Officer (CEO)",
     "salary": "1,200,000",
-    "icon": "mastered",
-    "status": "On-hold"
+    "name": "Angelica Ramos"
   },
   {
-    "name": "Gavin Joyce",
-    "position": "Developer",
-    "location": "Edinburgh",
-    "id": "8822",
-    "date": "2010/12/22",
-    "salary": "92,575",
-    "icon": "excel",
-    "status": "Active"
-  },
-  {
-    "name": "Jennifer Chang",
-    "position": "Regional Director",
-    "location": "Singapore",
-    "id": "9239",
-    "date": "2010/11/14",
-    "salary": "357,650",
-    "icon": "done",
-    "status": "Active"
-  },
-  {
-    "name": "Brenden Wagner",
-    "position": "Software Engineer",
+    "date": "2011/06/07",
     "location": "San Francisco",
     "id": "1314",
-    "date": "2011/06/07",
+    "position": "Software Engineer",
     "salary": "206,850",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Brenden Wagner"
   },
   {
-    "name": "Fiona Green",
-    "position": "Chief Operating Officer (COO)",
-    "location": "San Francisco",
-    "id": "2947",
-    "date": "2010/03/11",
-    "salary": "850,000",
-    "icon": "excel",
-    "status": "Active"
-  },
-  {
-    "name": "Shou Itou",
-    "position": "Regional Marketing",
+    "date": "2011/08/14",
     "location": "Tokyo",
     "id": "8899",
-    "date": "2011/08/14",
+    "position": "Regional Marketing",
     "salary": "163,000",
-    "icon": "mastered",
-    "status": "View only"
+    "name": "Shou Itou"
   },
   {
-    "name": "Michelle House",
-    "position": "Integration Specialist",
+    "date": "2011/06/02",
     "location": "Sydney",
     "id": "2769",
-    "date": "2011/06/02",
+    "position": "Integration Specialist",
     "salary": "95,400",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Michelle House"
   },
   {
-    "name": "Suki Burks",
-    "position": "Developer",
+    "date": "2009/10/22",
     "location": "London",
     "id": "6832",
-    "date": "2009/10/22",
+    "position": "Developer",
     "salary": "114,500",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Suki Burks"
   },
   {
-    "name": "Prescott Bartlett",
-    "position": "Technical Author",
+    "date": "2011/05/07",
     "location": "London",
     "id": "3606",
-    "date": "2011/05/07",
+    "position": "Technical Author",
     "salary": "145,000",
-    "icon": "mastered",
-    "status": "On-hold"
+    "name": "Prescott Bartlett"
   },
   {
-    "name": "Gavin Cortez",
-    "position": "Team Leader",
+    "date": "2008/10/26",
     "location": "San Francisco",
     "id": "2860",
-    "date": "2008/10/26",
+    "position": "Team Leader",
     "salary": "235,500",
-    "icon": "mastered",
-    "status": "On-hold"
+    "name": "Gavin Cortez"
   },
   {
-    "name": "Martena Mccray",
-    "position": "Post-Sales support",
+    "date": "2011/03/09",
     "location": "Edinburgh",
     "id": "8240",
-    "date": "2011/03/09",
+    "position": "Post-Sales support",
     "salary": "324,050",
-    "icon": "mastered",
-    "status": "On-hold"
+    "name": "Martena Mccray"
   },
   {
-    "name": "Unity Butler",
-    "position": "Marketing Designer",
-    "location": "San Francisco",
-    "id": "5384",
-    "date": "2009/12/09",
-    "salary": "85,675",
-    "icon": "done",
-    "status": "Active"
-  },
-  {
-    "name": "Howard Hatfield",
-    "position": "Office Manager",
-    "location": "San Francisco",
-    "id": "7031",
-    "date": "2008/12/16",
-    "salary": "164,500",
-    "icon": "done",
-    "status": "Active"
-  },
-  {
-    "name": "Hope Fuentes",
-    "position": "Secretary",
-    "location": "San Francisco",
-    "id": "6318",
-    "date": "2010/02/12",
-    "salary": "109,850",
-    "icon": "word",
-    "status": "Active"
-  },
-  {
-    "name": "Vivian Harrell",
-    "position": "Financial Controller",
-    "location": "San Francisco",
-    "id": "9422",
-    "date": "2009/02/14",
-    "salary": "452,500",
-    "icon": "excel",
-    "status": "Active"
-  },
-  {
-    "name": "Timothy Mooney",
-    "position": "Office Manager",
-    "location": "London",
-    "id": "7580",
-    "date": "2008/12/11",
-    "salary": "136,200",
-    "icon": "done",
-    "status": "Active"
-  },
-  {
-    "name": "Jackson Bradshaw",
-    "position": "Director",
+    "date": "2008/09/26",
     "location": "New York",
     "id": "1042",
-    "date": "2008/09/26",
+    "position": "Director",
     "salary": "645,750",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Jackson Bradshaw"
   },
   {
-    "name": "Olivia Liang",
-    "position": "Support Engineer",
-    "location": "Singapore",
-    "id": "2120",
-    "date": "2011/02/03",
-    "salary": "234,500",
-    "icon": "pdf",
-    "status": "Active"
-  },
-  {
-    "name": "Bruno Nash",
-    "position": "Software Engineer",
-    "location": "London",
-    "id": "6222",
-    "date": "2011/05/03",
-    "salary": "163,500",
-    "icon": "done",
-    "status": "Active"
-  },
-  {
-    "name": "Sakura Yamamoto",
-    "position": "Support Engineer",
-    "location": "Tokyo",
-    "id": "9383",
-    "date": "2009/08/19",
-    "salary": "139,575",
-    "icon": "pdf",
-    "status": "Active"
-  },
-  {
-    "name": "Thor Walton",
-    "position": "Developer",
+    "date": "2013/08/11",
     "location": "New York",
     "id": "8327",
-    "date": "2013/08/11",
+    "position": "Developer",
     "salary": "98,540",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Thor Walton"
   },
   {
-    "name": "Finn Camacho",
-    "position": "Support Engineer",
-    "location": "San Francisco",
-    "id": "2927",
-    "date": "2009/07/07",
-    "salary": "87,500",
-    "icon": "done",
-    "status": "Active"
-  },
-  {
-    "name": "Serge Baldwin",
-    "position": "Data Coordinator",
+    "date": "2012/04/09",
     "location": "Singapore",
     "id": "8352",
-    "date": "2012/04/09",
+    "position": "Data Coordinator",
     "salary": "138,575",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Serge Baldwin"
   },
   {
-    "name": "Zenaida Frank",
-    "position": "Software Engineer",
-    "location": "New York",
-    "id": "7439",
-    "date": "2010/01/04",
-    "salary": "125,250",
-    "icon": "pdf",
-    "status": "Active"
-  },
-  {
-    "name": "Zorita Serrano",
-    "position": "Software Engineer",
-    "location": "San Francisco",
-    "id": "4389",
-    "date": "2012/06/01",
-    "salary": "115,000",
-    "icon": "pdf",
-    "status": "Active"
-  },
-  {
-    "name": "Jennifer Acosta",
-    "position": "Junior Javascript Developer",
-    "location": "Edinburgh",
-    "id": "3431",
-    "date": "2013/02/01",
-    "salary": "75,650",
-    "icon": "done",
-    "status": "Active"
-  },
-  {
-    "name": "Cara Stevens",
-    "position": "Sales Assistant",
-    "location": "New York",
-    "id": "3990",
-    "date": "2011/12/06",
-    "salary": "145,600",
-    "icon": "pdf",
-    "status": "Active"
-  },
-  {
-    "name": "Hermione Butler",
-    "position": "Regional Director",
+    "date": "2011/03/21",
     "location": "London",
     "id": "1016",
-    "date": "2011/03/21",
+    "position": "Regional Director",
     "salary": "356,250",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Hermione Butler"
   },
   {
-    "name": "Lael Greer",
-    "position": "Systems Administrator",
+    "date": "2009/02/27",
     "location": "London",
     "id": "6733",
-    "date": "2009/02/27",
+    "position": "Systems Administrator",
     "salary": "103,500",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Lael Greer"
   },
   {
-    "name": "Jonas Alexander",
-    "position": "Developer",
+    "date": "2010/07/14",
     "location": "San Francisco",
     "id": "8196",
-    "date": "2010/07/14",
+    "position": "Developer",
     "salary": "86,500",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Jonas Alexander"
   },
   {
-    "name": "Shad Decker",
-    "position": "Regional Director",
+    "date": "2008/11/13",
     "location": "Edinburgh",
     "id": "6373",
-    "date": "2008/11/13",
+    "position": "Regional Director",
     "salary": "183,000",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Shad Decker"
   },
   {
-    "name": "Michael Bruce",
-    "position": "Javascript Developer",
-    "location": "Singapore",
-    "id": "5384",
-    "date": "2011/06/27",
-    "salary": "183,000",
-    "icon": "done",
-    "status": "Active"
-  },
-  {
-    "name": "Donna Snider",
-    "position": "Customer Support",
+    "date": "2011/01/25",
     "location": "New York",
     "id": "4226",
-    "date": "2011/01/25",
+    "position": "Customer Support",
     "salary": "112,000",
-    "icon": "mastered",
-    "status": "Active"
+    "name": "Donna Snider"
   }
 ]
