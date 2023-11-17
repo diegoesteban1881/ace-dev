@@ -3,224 +3,54 @@
     "name": "ACE Teaching Procedures",
     "url": "#",
     "type": "Other",
-    "lessons": "645 CS Match Object to Picture\n" +
-    "648 CS Match Picture to Object\n" +
-    "10 CS Name Pictures (Vocal)\n" +
-    "459 CS Name Pictures (Motor)\n" +
-    "11 Indicate Named Pictures\n" +
-    "1488 Match Object to Picture (Delayed)\n" +
-    "1489 Match Pictures (Delayed)\n" +
-    "2579 Indicate and Name Pictures (Motor)\n" +
-    "2067 UAE ACAD Pre-Reading Equivalence (unit 1)\n" +
-    "917 Vocabulary Equivalence (vocal)\n" +
-    "342 Name Pictures (remedial)\n" +
-    "1111 UAE Indicate Named Pictures\n" +
-    "1112 UAE Indicate and Name Pictures\n" +
-    "1113 UAE Name Pictures\n" +
-    "925 Vocabulary Equivalence\n" +
-    "2526 CS Match Identical Pictures\n" +
-    "546 Name Pictures (vocal)\n" +
-    "483 CS Session Behavior (no sample)\n" +
-    "2915 Match Object to Picture"
+    "lessons": "645 CS Match Object to Picture"
   },
   {
     "name": "Extra Tokens",
     "url": "#",
-    "type": "Printable Flashcards"
+    "type": "Printable Flashcards",
+    "lessons": "645 CS Match Object to Picture"
   },
   {
     "name": "First Then Board",
     "url": "#",
-    "type": "Sample Token Boards"
+    "type": "Sample Token Boards",
+    "lessons": "645 CS Match Object to Picture"
   },
   {
     "name": "Free Opp Data Sheet",
     "url": "#",
-    "type": "Sample Schedules"
+    "type": "Sample Schedules",
+    "lessons": "645 CS Match Object to Picture"
   },
   {
     "name": "Letter Flashcards",
     "url": "#",
-    "type": "Other"
+    "type": "Other",
+    "lessons": "645 CS Match Object to Picture"
   },
   {
     "name": "Number Flashcards",
     "url": "#",
-    "type": "Printable Flashcards"
+    "type": "Printable Flashcards",
+    "lessons": "645 CS Match Object to Picture"
   },
   {
     "name": "Quantity Flashcards",
     "url": "#",
-    "type": "Printable Flashcards"
+    "type": "Printable Flashcards",
+    "lessons": "645 CS Match Object to Picture"
   },
   {
     "name": "Shape Flashcards",
     "url": "#",
-    "type": "Printable Flashcards"
+    "type": "Printable Flashcards",
+    "lessons": "645 CS Match Object to Picture"
   },
   {
     "name": "Ten Frame Template",
     "url": "#",
-    "type": "Printable Flashcards"
-  },
-  {
-    "name": "9 Trial 3 Stimulus Array",
-    "url": "#",
-    "type": "Array"
-  },
-  {
-    "name": "12 Trial 2 Stimulus No Array",
-    "url": "#",
-    "type": "No Array"
-  },
-  {
-    "name": "16 Trial 4 Stimulus Array",
-    "url": "#",
-    "type": "Array"
-  },
-  {
-    "name": "16 Trial 4 Stimulus Interspersal",
-    "url": "#",
-    "type": "Interspersal"
-  },
-  {
-    "name": "16 Trial 4 Stimulus No Array",
-    "url": "#",
-    "type": "No Array"
-  },
-  {
-    "name": "3 Skills Data Sheet",
-    "url": "#",
-    "type": "Other"
-  },
-  {
-    "name": "5 Trial",
-    "url": "#",
-    "type": "Basic"
-  },
-  {
-    "name": "9 Trial 3 Stimulus Array",
-    "url": "#",
-    "type": "Array"
-  },
-  {
-    "name": "12 Trial 2 Stimulus No Array",
-    "url": "#",
-    "type": "No Array"
-  },
-  {
-    "name": "16 Trial 4 Stimulus Array",
-    "url": "#",
-    "type": "Array"
-  },
-  {
-    "name": "16 Trial 4 Stimulus Interspersal",
-    "url": "#",
-    "type": "Interspersal"
-  },
-  {
-    "name": "16 Trial 4 Stimulus No Array",
-    "url": "#",
-    "type": "No Array"
-  },
-  {
-    "name": "3 Skills Data Sheet",
-    "url": "#",
-    "type": "Other"
-  },
-  {
-    "name": "5 Trial",
-    "url": "#",
-    "type": "Basic"
-  },
-  {
-    "name": "9 Trial 3 Stimulus Array",
-    "url": "#",
-    "type": "Array"
-  },
-  {
-    "name": "12 Trial 2 Stimulus No Array",
-    "url": "#",
-    "type": "No Array"
-  },
-  {
-    "name": "16 Trial 4 Stimulus Array",
-    "url": "#",
-    "type": "Array"
-  },
-  {
-    "name": "16 Trial 4 Stimulus Interspersal",
-    "url": "#",
-    "type": "Interspersal"
-  },
-  {
-    "name": "16 Trial 4 Stimulus No Array",
-    "url": "#",
-    "type": "No Array"
-  },
-  {
-    "name": "3 Skills Data Sheet",
-    "url": "#",
-    "type": "Other"
-  },
-  {
-    "name": "5 Trial",
-    "url": "#",
-    "type": "Basic"
-  },
-  {
-    "name": "9 Trial 3 Stimulus Array",
-    "url": "#",
-    "type": "Array"
-  },
-  {
-    "name": "12 Trial 2 Stimulus No Array",
-    "url": "#",
-    "type": "No Array"
-  },
-  {
-    "name": "16 Trial 4 Stimulus Array",
-    "url": "#",
-    "type": "Array"
-  },
-  {
-    "name": "16 Trial 4 Stimulus Interspersal",
-    "url": "#",
-    "type": "Interspersal"
-  },
-  {
-    "name": "16 Trial 4 Stimulus No Array",
-    "url": "#",
-    "type": "No Array"
-  },
-  {
-    "name": "3 Skills Data Sheet",
-    "url": "#",
-    "type": "Other"
-  },
-  {
-    "name": "5 Trial",
-    "url": "#",
-    "type": "Basic"
-  },
-  {
-    "name": "9 Trial 3 Stimulus Array",
-    "url": "#",
-    "type": "Array"
-  },
-  {
-    "name": "12 Trial 2 Stimulus No Array",
-    "url": "#",
-    "type": "No Array"
-  },
-  {
-    "name": "16 Trial 4 Stimulus Array",
-    "url": "#",
-    "type": "Array"
-  },
-  {
-    "name": "16 Trial 4 Stimulus Interspersal",
-    "url": "#",
-    "type": "Interspersal"
+    "type": "Printable Flashcards",
+    "lessons": "645 CS Match Object to Picture"
   }
 ]
